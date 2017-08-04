@@ -1,0 +1,16 @@
+.robi-logo{
+	float: right !important;
+    padding-right: 0pxpx;
+    padding-top: 0px;
+    position: relative;
+    top: 40px;
+	z-index:100;
+}
+.login-form{
+padding-top:150px;
+}
+@media all and (max-width:992px){
+.robi-logo{
+    top: 50px;
+}
+}
